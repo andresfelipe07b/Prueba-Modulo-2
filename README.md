@@ -50,6 +50,9 @@ This is a personal portfolio project developed by **Andrés Bolaños**
 ## 📄 License
 
 © 2025 Andrés Bolaños. All rights reserved.
+
 Clan: Gosling
+
 ID: 1001999740
+
 email: bolanosandres43@gmail.com
